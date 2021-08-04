@@ -12,6 +12,7 @@ export default class Game extends React.Component {
             redScore: 0,
             round: 1,
             log: []
+            
         }
     }
 
